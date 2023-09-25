@@ -1,2 +1,2 @@
 "Create this demo4.txt for pull code.."
-"This is for pull,,,,"
+"This is for pull..."
